@@ -69,7 +69,7 @@ def plot_graph(trainsize, res):
     plt.grid(True)
     plt.xlabel('Training Size')
     plt.ylabel('F1 score')
-    plt.savefig('/content/gdrive/My Drive/DataMining/DeepWalkAlgorithm/Outputs/result.png')
+    plt.savefig('/Outputs/result.png')
     plt.close()
     
     return
