@@ -69,7 +69,7 @@ def plot_graph(trainsize, res):
     plt.grid(True)
     plt.xlabel('Training Size')
     plt.ylabel('F1 score')
-    #plt.savefig('/Outputs/result.png')
+    plt.savefig('result.png')
     plt.show()
     plt.close()
     
