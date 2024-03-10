@@ -69,6 +69,4 @@ If you want to take a look at the raw output dump of the all the test runs, they
 
 [DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732)
 
-[Video: Presentation of DeepWalk by B. Perozzi at KDD 2014](https://www.youtube.com/watch?v=n12HS-24CtA)
-
 [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-andphrases)
