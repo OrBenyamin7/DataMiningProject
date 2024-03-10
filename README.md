@@ -1,13 +1,6 @@
 DeepWalk: Online Learning of Social Representations
 ===================================================
 
-This is a python implementation of *DeepWalk* by Bryan Perozzi. This is a contribution for Dr. Guozhu Dong's repository which is a collection of Feature Engineering projects for his new textbook called **'Feature Engineering'** [currently unplublished]. 
-
-**Dataset** : *BlogCatalog* 
-
-Download here:
-[mat file](http://leitang.net/code/social-dimension/data/blogcatalog.mat)
-
 - Number of users : 10,312
 - Number of friendships/edges : 333,983
 - Number of groups to which users can subscribe to : 39
