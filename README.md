@@ -1,6 +1,7 @@
 DeepWalk: Online Learning of Social Representations
 ===================================================
 
+**Dataset** : *BlogCatalog*
 - Number of users : 10,312
 - Number of friendships/edges : 333,983
 - Number of groups to which users can subscribe to : 39
